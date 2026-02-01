@@ -1,4 +1,5 @@
 ---
+layout: single
 title: "Introduction"
 excerpt: "Home Lab documentation and memory dump."
 permalink: /homelab/introduction/
@@ -7,6 +8,14 @@ categories:
 tags:
   - homelab
   - hardware
+classes:
+  - landing
+  - dark-theme
+  - wide
+toc: true
+toc_sticky: true
+toc_label: "Table of Contents"
+toc_icon: "cog"
 ---
 Since 1995 I have been running a home lab. It started with my own workstation turned into a server, running Debian Linux at the time, with services like Apache, Postfix, Bind DNS, and others running locally. In '97-'98, with an ADSL link at home, I started serving my own services, from the same server (with few upgrades). Back then I served my website, own domain DNS and e-mail servers, and other services like IRC bots, IRC server, ... 
 

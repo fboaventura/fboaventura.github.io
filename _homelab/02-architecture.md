@@ -1,4 +1,5 @@
 ---
+layout: single
 title: "Architecture"
 excerpt: "Home Lab architecture, equipments, and diagrams."
 permalink: /homelab/architecture/
@@ -8,6 +9,13 @@ tags:
   - homelab
   - architecture
   - hardware
+classes:
+  - landing
+  - dark-theme
+toc: true
+toc_sticky: true
+toc_label: "Table of Contents"
+toc_icon: "cog"
 ---
 The homelab is composed of a few devices, some of them are part of the lab, others are part of the network, and others are part of the house. The lab is composed of a Raspberry Pi cluster, a Dell Optiplex, and a Lenovo ThinkCentre M90n. The network is composed of a switch, a firewall, two routers, and a few access points.
 
