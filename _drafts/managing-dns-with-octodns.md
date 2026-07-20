@@ -25,8 +25,7 @@ and many others.
 
 ## How does OctoDNS work?
 
-OctoDNS works by reading a YAML configuration file that defines your DNS records and then applying those changes to
-your DNS providers. The configuration file is organized into zones, which represent the different domains and
+OctoDNS works with YAML files for the configuration and the zones settings. The YAML configuration file that defines the interaction with the DNS providers, the local files, and the zones settings. your DNS records and then applying those changes to your DNS providers. The configuration file is organized into zones, which represent the different domains and
 subdomains that you want to manage. Each zone contains a list of records, which define the DNS records for that
 domain or subdomain.
 

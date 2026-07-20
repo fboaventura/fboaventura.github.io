@@ -10,8 +10,8 @@
 # Review documentation to determine if you should use `theme` or `remote_theme`
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
-# theme                  : "minimal-mistakes-jekyll"
-remote_theme           : "mmistakes/minimal-mistakes"
+theme                    : "minimal-mistakes-jekyll"
+# remote_theme           : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
@@ -283,23 +283,6 @@ plugins:
   - jekyll-remote-theme
   - jekyll-sitemap
   - jekyll-titles-from-headings
-
-# mimic GitHub Pages with --safe
-whitelist:
-  - jekyll-coffeescript
-  - jekyll-default-layout
-  - jekyll-feed
-  - jekyll-gist
-  - jekyll-github-metadata
-  - jekyll-include-cache
-  - jekyll-optional-front-matter
-  - jekyll-paginate
-  - jekyll-readme-index
-  - jekyll-relative-links
-  - jekyll-remote-theme
-  - jekyll-sitemap
-  - jekyll-titles-from-headings
-
 
 # Archives
 #  Type
