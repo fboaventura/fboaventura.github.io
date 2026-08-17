@@ -15,7 +15,7 @@ group :jekyll_plugins do
   gem "jekyll-paginate"
   gem "jekyll-readme-index"
   gem "jekyll-relative-links"
-  gem "jekyll-remote-theme", "~> 0.5.1"
+  gem "jekyll-remote-theme", "~> 0.5.2"
   gem "jekyll-sitemap"
   gem "jekyll-titles-from-headings"
 end
