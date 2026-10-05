@@ -7,7 +7,7 @@ gem "minimal-mistakes-jekyll", "~> 4.28"
 group :jekyll_plugins do
   gem "jekyll-coffeescript"
   gem "jekyll-default-layout"
-  gem "jekyll-feed", "~> 0.6"
+  gem "jekyll-feed", "~> 0.18"
   gem "jekyll-gist"
   gem "jekyll-github-metadata"
   gem "jekyll-include-cache"
@@ -15,7 +15,7 @@ group :jekyll_plugins do
   gem "jekyll-paginate"
   gem "jekyll-readme-index"
   gem "jekyll-relative-links"
-  gem "jekyll-remote-theme", "~> 0.5.1"
+  gem "jekyll-remote-theme", "~> 0.6.2"
   gem "jekyll-sitemap"
   gem "jekyll-titles-from-headings"
 end
